@@ -8,7 +8,7 @@ Thank you for visiting! This repository contains the files, basic notes, and stu
 
 - Title: *Complete Java Collections Framework & Streams Masterclass 2024*  
 - YouTube: [Watch here](https://youtu.be/92k5uokmW9o)  
-- Creator: **Engineering Digest** — Thank you for creating this excellent masterclass!
+- Creator: **Engineering Digest** ([Vipul Vats])(https://github.com/thevipulvats) — Thank you for creating this excellent masterclass!
 
 ---
 
@@ -40,7 +40,7 @@ Here are some of the key topics you’ll find notes and examples for:
 
 ## 🤝 Acknowledgements
 
-Huge thanks to **Engineering Digest** [Vipul Vats](https://github.com/thevipulvats) for putting together this instructive and well-structured masterclass. Your content made it much easier to understand Java Collections & Streams in depth.  
+Huge thanks to **Engineering Digest** for putting together this instructive and well-structured masterclass. Your content made it much easier to understand Java Collections & Streams in depth.  
 
 Also thanks to everyone who contributes to open source, shares notes, and helps spread learning!
 
