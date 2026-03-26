@@ -1,3 +1,4 @@
+package JavaCollectionFramework.JavaCollections;
 import java.lang.ref.WeakReference;
 
 public class garbageCollection {

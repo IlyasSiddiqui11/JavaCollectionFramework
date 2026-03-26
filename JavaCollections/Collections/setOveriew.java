@@ -1,3 +1,4 @@
+package JavaCollectionFramework.JavaCollections.Collections;
 import java.util.Collections;
 import java.util.HashSet;
 import java.util.LinkedHashSet;

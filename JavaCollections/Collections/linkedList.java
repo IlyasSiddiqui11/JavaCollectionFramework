@@ -1,3 +1,4 @@
+package JavaCollectionFramework.JavaCollections.Collections;
 
 import java.util.Arrays;
 import java.util.LinkedList;

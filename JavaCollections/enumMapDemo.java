@@ -1,3 +1,4 @@
+package JavaCollectionFramework.JavaCollections;
 import java.util.EnumMap;
 
 public class enumMapDemo {

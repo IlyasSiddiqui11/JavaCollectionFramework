@@ -1,3 +1,4 @@
+package JavaCollectionFramework.JavaCollections.Collections;
 
 import java.util.LinkedList;
 import java.util.Stack;

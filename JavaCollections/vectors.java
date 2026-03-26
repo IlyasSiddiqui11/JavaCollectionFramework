@@ -1,3 +1,4 @@
+package JavaCollectionFramework.JavaCollections;
 
 import java.util.Vector; 
 // Vectors are synchronized making it "thread safe".

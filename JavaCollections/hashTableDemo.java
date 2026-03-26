@@ -1,3 +1,4 @@
+package JavaCollectionFramework.JavaCollections;
 import java.util.Hashtable;
 
 public class hashTableDemo {

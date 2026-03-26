@@ -1,3 +1,4 @@
+package JavaCollectionFramework.JavaCollections;
 import java.util.concurrent.ConcurrentLinkedDeque;
 
 public class concurrentLinkedDequeDemo {
