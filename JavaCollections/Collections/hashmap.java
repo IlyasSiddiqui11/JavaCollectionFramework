@@ -17,6 +17,7 @@ public class hashmap {
         map.put(null,"Bob");
         // If we set another value for the same key the previous value will be replaced by the new value.
         map.put(null,"Tom");
+
         // Here the new value for key "null" will be "Tom" not "Bob".
         // There can only be one null value for key but for value there can be many null values.
 
@@ -38,6 +39,7 @@ public class hashmap {
         person p3 = new person("Ilyas", 1);
 
         HashMap<person,String> map1 = new HashMap<>();
+
 
         map1.put(p1, "Engineer");
         map1.put(p2, "HR");
@@ -70,6 +72,7 @@ public class hashmap {
         for(Map.Entry<String,Integer> entry: hashmap.entrySet()){
             System.out.println(entry.getKey() + ": " + entry.getValue());
         }
+        System.out.println(p1);
     }
 }
 
